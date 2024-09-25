@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="LOGO" src="../javalearn/src/main/java/com/woniuxy/image/icon.png" width="256" height="256" />
+<img alt="LOGO" src="resources/icon.png" width="256" height="256" />
 
 # Java学习记录
 ![Static Badge](https://img.shields.io/badge/JavaProject-hrms-008c8c)
